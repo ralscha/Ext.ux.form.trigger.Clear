@@ -3,6 +3,7 @@ Ext.ux.form.trigger.Clear
 
 Ext JS 5 trigger that adds a clear icon to textfields and comboboxes. A click on this icon clears the value of the field.
 
+See the online demo: http://ralscha.github.io/Ext.ux.form.trigger.Clear
 
 **Examples**:
 
