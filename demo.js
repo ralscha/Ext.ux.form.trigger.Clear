@@ -421,7 +421,7 @@ Ext.onReady(function() {
 		padding: 20,
 		layout: 'vbox',
 
-		title: 'Ext.ux.form.trigger.Clear Demos',
+		title: 'Ext.ux.form.trigger.Clear Demos  (https://github.com/ralscha/Ext.ux.form.trigger.Clear)',
 		items: [ {
 			xtype: 'container',
 			flex: 1,
