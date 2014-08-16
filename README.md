@@ -5,6 +5,7 @@ Ext JS 5 trigger that adds a clear icon to textfields and comboboxes. A click on
 
 See the online demo: http://ralscha.github.io/Ext.ux.form.trigger.Clear
 
+
 **Examples**:
 
 
@@ -55,3 +56,19 @@ and the mouse hovers over the field
     }
   }
   ```
+  
+
+- Clear the value of the field with ESC
+  ```
+  {
+    xtype: 'textfield',
+    name: 'aSimpleTextField',
+    fieldLabel: 'A textfield',
+    triggers: {
+      clear: {
+        type: 'clear',
+        clearOnEscape: true
+      }
+    }
+  }  
+  ```  
