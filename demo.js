@@ -416,6 +416,23 @@ Ext.onReady(function() {
 		} ]
 	});
 
+	var textarea = new Ext.form.Panel({
+		flex: 1,
+		margin: 5,
+		bodyPadding: 5,
+		title: 'Textarea',
+		items: [ {
+			xtype: 'textarea',
+			fieldLabel: 'Hide when empty',
+			name: 'ta1',
+			triggers: {
+				clear: {
+					type: 'clear'
+				}
+			}
+		}]
+	});
+	
 	new Ext.panel.Panel({
 		plugins: 'viewport',
 		padding: 20,
@@ -436,7 +453,7 @@ Ext.onReady(function() {
 			xtype: 'container',
 			flex: 1,
 			layout: 'hbox',
-			items: [ tagfields ]
+			items: [ tagfields, textarea ]
 		} ]
 
 	});
