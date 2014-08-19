@@ -8,6 +8,7 @@
  * @author <a href="mailto:fabian.urban@fortis-it.de">Fabian Urban</a>
  * @author <a href="https://github.com/aghuddleston">aghuddleston</a>
  * @author <a href="mailto:p.maechler@iwf.ch">Pat Mächler</a> 
+ * @author <a href="https://github.com/ralscha">Ralph Schaer</a> 
  * 
  * @license Ext.ux.form.trigger.Clear is released under the <a target="_blank"
  *          href="http://www.apache.org/licenses/LICENSE-2.0.txt">Apache License, Version
