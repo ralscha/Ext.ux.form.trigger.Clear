@@ -4,6 +4,11 @@
  * Trigger for textfields and comboboxes that adds a clear icon to the field. When this
  * icon is clicked the value of the field is cleared.
  * 
+ * @author <a href="mailto:stephen.friedrich@fortis-it.de">Stephen Friedrich</a>
+ * @author <a href="mailto:fabian.urban@fortis-it.de">Fabian Urban</a>
+ * @author <a href="https://github.com/aghuddleston">aghuddleston</a>
+ * @author <a href="mailto:p.maechler@iwf.ch">Pat Mächler</a> 
+ * 
  * @license Ext.ux.form.trigger.Clear is released under the <a target="_blank"
  *          href="http://www.apache.org/licenses/LICENSE-2.0.txt">Apache License, Version
  *          2.0</a>.
