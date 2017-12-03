@@ -1,3 +1,6 @@
+**Deprecated**: See this [example](https://github.com/ralscha/todo/blob/master/client/app/plugin/Clearable.js) for a better solution
+
+
 Ext.ux.form.trigger.Clear
 =====================================
 
